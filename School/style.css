@@ -1,0 +1,24 @@
+body {
+text-align: center;    
+}
+
+#welcome {
+bottom: 0;    
+display: table;
+width: 100%;
+height:100%;    
+z-index: 9;    
+background: #8be8c4;    
+}
+
+#campus life {
+    background: #84aee8;
+}
+
+h1 {
+  font-family: "Times New Roman", Times, serif;
+}
+
+h2 {
+  font-family: "Times New Roman", Times, serif;
+}
